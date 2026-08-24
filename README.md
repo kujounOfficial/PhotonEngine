@@ -47,20 +47,6 @@ The compiled output is generated into `dist/`.
 
 > ⚠️ WebGPU is still a fairly new technology — you'll need a browser that supports it (current Chrome/Edge, or Firefox/Safari behind a flag).
 
-## 🗺️ Roadmap
-
-- [ ] WebGPU device & swapchain initialization
-- [ ] Basic render pipeline
-- [ ] Shader loading and compilation (WGSL)
-- [ ] Vertex/index buffers and basic geometry
-- [ ] Camera and 3D transforms
-- [ ] Textures and materials
-- [ ] Scene graph / entity system
-- [ ] Lighting
-- [ ] A small game demo built on top of the engine
-
-*(The roadmap will shift depending on what I feel like exploring next 😄)*
-
 ## 💡 Motivation
 
 This repo mostly serves as my **playground** for understanding graphics programming. If you're into WebGPU or engine architecture, feel free to follow along or reach out — feedback and ideas are always welcome.
